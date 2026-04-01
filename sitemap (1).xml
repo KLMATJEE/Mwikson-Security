@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.mwiksonprotection.co.za/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- About Us page -->
+  <url>
+    <loc>https://www.mwiksonprotection.co.za/aboutus.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Services section (homepage anchor) -->
+  <url>
+    <loc>https://www.mwiksonprotection.co.za/#features1-m</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Our Approach section (homepage anchor) -->
+  <url>
+    <loc>https://www.mwiksonprotection.co.za/#timeline1-q</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Contact / Consultation form (About Us anchor) -->
+  <url>
+    <loc>https://www.mwiksonprotection.co.za/aboutus.html#contacts02-u</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Request a Consultation form (About Us anchor) -->
+  <url>
+    <loc>https://www.mwiksonprotection.co.za/aboutus.html#form5-v</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+</urlset>

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Block access to admin and private folders
+Disallow: /admin/
+Disallow: /private/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /cgi-bin/
+
+# Link to sitemap
+Sitemap: https://www.mwiksonprotection.co.za/sitemap.xml
