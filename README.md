@@ -1,2 +1,5 @@
 # Mwikson-Security
-Providing comprehensive, reliable, and tailored security solutions to protect what matters most to you. PSIRA Registered Fully compliant with the South African Private Security Industry Regulatory Authority standards.
+The website was built with Mobirise (free plan) and parts rely on WordPress. Where several plugins are outdated and require paid upgrades.
+I worked on stabilisation programming fixes, SEO indexability work and form backend implementation. Sitemap, robots, metadata improvements,
+Advert tag intergration + consent banner, an working contact form, Form Backend & Email Deliverability, server & DNS Configuration.
+
